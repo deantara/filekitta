@@ -1,0 +1,2 @@
+# filekitta
+File pertama aku
